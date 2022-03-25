@@ -10,7 +10,7 @@ class ItemDetailPage(BaseClass):
     #      "=sweater&itemsourse=productlist "
     # page elements
     item_color = (By.XPATH, "//a[contains(text(),'NOMAD MIX')]")
-    item_size = (By.XPATH, "//a[@title='Extra Small']/span[text()='XS']")
+    item_size = (By.XPATH, "//a[@title='Large']/span[text()='L']")
     add_quantity = (By.XPATH, "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
     add_to_bag = (By.XPATH, "//button[@id='add-to-cart']")
     bag_icon = (By.XPATH, "//div[@id='cartTotal']")

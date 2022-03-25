@@ -20,24 +20,28 @@ class TestCases(unittest.TestCase):
 
     def setUp(self):
         warnings.simplefilter('ignore', ResourceWarning)
-        # self.driver = webdriver.Chrome()
-        # self.driver.implicitly_wait(5)
-        self.bc = BaseClass()
-        lp = LoginPage()
+        self.driver = webdriver.Chrome()
+        self.driver.implicitly_wait(3)
+        self.driver.maximize_window()
+        self.bc = BaseClass(self.driver)
+        self.bc.open_url(gp.url)
+        lp = LoginPage(self.driver)
         lp.login(gp.username, gp.password)
+
 
     @ddt.file_data('C:/Users/carol/PycharmProjects/testproject/testproject/data/data.yaml')
     @ddt.unpack
     def test_01_shopping(self, **kwargs):
-        sp = SearchPage()
+        sp = SearchPage(self.driver)
         sp.search(kwargs.get('search_word'))
-        ilp = ItemListPage()
+        ilp = ItemListPage(self.driver)
         ilp.choose_categories_women()
         sleep(2)
         ilp.choose_price_high_to_low()
         sleep(2)
         ilp.choose_item()
-        idp = ItemDetailPage()
+        sleep(2)
+        idp = ItemDetailPage(self.driver)
         idp.choose_color()
         sleep(2)
         idp.choose_size()
@@ -48,10 +52,9 @@ class TestCases(unittest.TestCase):
         sleep(2)
         idp.click_view_bag()
         sleep(2)
-        sbp = ShoppingBagPage()
+        sbp = ShoppingBagPage(self.driver)
         sbp.click_decrease_item()
         # sbp.click_decrease_item()
-        sleep(2)
         self.bc.scroll("scroll(0,300)")
         sbp.click_include_gift_receipt()
         sleep(2)
@@ -73,14 +76,14 @@ class TestCases(unittest.TestCase):
             self.bc.mylog.info('PASS')
 
     def test_02_empty_shopping_bag(self):
-        idp = ItemDetailPage()
+        idp = ItemDetailPage(self.driver)
         idp.click_bag_icon()
         sleep(2)
         idp.click_view_bag()
         sleep(2)
         self.bc.scroll("scroll(0,300)")
         sleep(2)
-        sbp = ShoppingBagPage()
+        sbp = ShoppingBagPage(self.driver)
         sbp.click_remove_gift_message()
         sleep(2)
         self.bc.scroll("scroll(0,-300)")
@@ -89,7 +92,7 @@ class TestCases(unittest.TestCase):
         sleep(2)
 
     def tearDown(self):
-        self.bc.quit()
+        self.driver.quit()
 
 
 if __name__ == '__main__':

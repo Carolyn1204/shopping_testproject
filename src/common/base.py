@@ -12,8 +12,8 @@ from util import logger
 
 
 class BaseClass(object):
-    def __init__(self, my_driver=gp.driver):
-        self.driver = my_driver
+    def __init__(self, driver):
+        self.driver = driver
         self.mylog = logger.LogUtil()
 
 
@@ -100,8 +100,8 @@ class BaseClass(object):
 
     # if popup exists
     def close_popup(self):
-        # if self.driver.find_element(By.XPATH, "//span[@class='ui-icon ui-icon-closethick']"):
-        popup_value = (By.XPATH, "//span[@class='ui-icon ui-icon-closethick']")
+        if self.driver.find_element(By.XPATH, "//span[@class='ui-icon ui-icon-closethick']"):
+            popup_value = (By.XPATH, "//span[@class='ui-icon ui-icon-closethick']")
         try:
             self.click(popup_value)
             self.mylog.info("close the popup")

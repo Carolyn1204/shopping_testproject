@@ -18,12 +18,13 @@ class LoginPage(BaseClass):
     adver_close = (By.XPATH, "//span[@class='ui-icon ui-icon-closethick']")
 
     # elements operations
+
+    # def get_url(self):
+    #     self.open_url(gp.url)
+
     def login(self, email_v, pwd_v):
-        self.open_url(gp.url)
-        self.maximize_window()
-        sleep(2)
-        self.close_popup()
-        sleep(2)
+     #   self.close_popup()
+     #   sleep(2)
         self.input(self.email, email_v)
         self.input(self.pwd, pwd_v)
         sleep(1)

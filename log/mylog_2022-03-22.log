@@ -1,0 +1,224 @@
+2022-03-22 16:25:57,172 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 16:25:57,460 - roots-online - INFO - input the text1204fighting
+2022-03-22 16:25:58,647 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 16:26:02,430 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:10:39,346 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:10:39,658 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:10:40,761 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:10:44,686 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:10:45,231 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:10:45,355 - roots-online - INFO - input the textsweater
+2022-03-22 22:10:50,834 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:10:53,578 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:11:01,292 - roots-online - INFO - click the element:('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:11:04,462 - roots-online - ERROR - the element is unclickable('xpath', "//a[@title='Extra Small']/span[text()='XS']")
+2022-03-22 22:11:06,697 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:11:08,977 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:11:14,060 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:11:19,104 - roots-online - ERROR - cannot find the element
+2022-03-22 22:11:19,105 - roots-online - ERROR - the element is unclickable('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:22:39,109 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:22:42,378 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:22:42,727 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:22:43,821 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:22:47,524 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:22:48,142 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:22:48,257 - roots-online - INFO - input the textsweater
+2022-03-22 22:22:53,302 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:22:56,067 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:22:58,824 - roots-online - ERROR - the elements is unclickable
+2022-03-22 22:23:01,876 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:01,877 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:23:06,919 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:06,920 - roots-online - ERROR - the element is unclickable('xpath', "//a[@title='Extra Small']/span[text()='L']")
+2022-03-22 22:23:11,988 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:11,989 - roots-online - ERROR - the element is unclickable('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:23:17,047 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:17,048 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:23:22,115 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:23:27,199 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:27,200 - roots-online - ERROR - the element is unclickable('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:23:32,412 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:32,414 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:23:37,458 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:37,460 - roots-online - ERROR - misinput
+2022-03-22 22:23:42,527 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:42,530 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:23:47,571 - roots-online - ERROR - cannot find the element
+2022-03-22 22:23:47,572 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:23:52,648 - roots-online - ERROR - cannot get the text
+2022-03-22 22:23:52,654 - roots-online - ERROR - Assert Exception Error
+2022-03-22 22:24:44,091 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:24:47,305 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:24:47,661 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:24:48,786 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:24:52,696 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:24:53,244 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:24:53,363 - roots-online - INFO - input the textsweater
+2022-03-22 22:24:57,938 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:25:00,327 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:25:06,992 - roots-online - INFO - click the element:('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:25:12,083 - roots-online - ERROR - cannot find the element
+2022-03-22 22:25:12,086 - roots-online - ERROR - the element is unclickable('xpath', "//a[@title='Extra Small']/span[text()='L']")
+2022-03-22 22:25:14,407 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:25:16,680 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:25:21,797 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:25:26,815 - roots-online - ERROR - cannot find the element
+2022-03-22 22:25:26,816 - roots-online - ERROR - the element is unclickable('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:25:31,912 - roots-online - ERROR - cannot find the element
+2022-03-22 22:25:31,913 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:25:36,979 - roots-online - ERROR - cannot find the element
+2022-03-22 22:25:36,981 - roots-online - ERROR - misinput
+2022-03-22 22:25:42,058 - roots-online - ERROR - cannot find the element
+2022-03-22 22:25:42,061 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:25:47,129 - roots-online - ERROR - cannot find the element
+2022-03-22 22:25:47,131 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:25:52,221 - roots-online - ERROR - cannot get the text
+2022-03-22 22:25:52,225 - roots-online - ERROR - Assert Exception Error
+2022-03-22 22:33:55,063 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:33:55,254 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:33:55,524 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:33:56,724 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:34:00,728 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:34:01,312 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:34:01,551 - roots-online - INFO - input the textsweater
+2022-03-22 22:34:05,331 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:34:07,798 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:34:15,066 - roots-online - INFO - click the element:('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:34:20,084 - roots-online - ERROR - cannot find the element
+2022-03-22 22:34:20,086 - roots-online - ERROR - the element is unclickable('xpath', "//a[@title='Extra Small']/span[text()='L']")
+2022-03-22 22:34:22,369 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:34:24,660 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:34:29,713 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:34:34,740 - roots-online - ERROR - cannot find the element
+2022-03-22 22:34:34,742 - roots-online - ERROR - the element is unclickable('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:34:39,857 - roots-online - ERROR - cannot find the element
+2022-03-22 22:34:39,860 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:34:44,890 - roots-online - ERROR - cannot find the element
+2022-03-22 22:34:44,892 - roots-online - ERROR - misinput
+2022-03-22 22:34:49,958 - roots-online - ERROR - cannot find the element
+2022-03-22 22:34:49,960 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:34:55,034 - roots-online - ERROR - cannot find the element
+2022-03-22 22:34:55,035 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:35:00,076 - roots-online - ERROR - cannot get the text
+2022-03-22 22:35:00,079 - roots-online - ERROR - Assert Exception Error
+2022-03-22 22:40:09,521 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:40:09,775 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:40:10,023 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:40:11,222 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:40:15,157 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:40:15,855 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:40:16,046 - roots-online - INFO - input the textsweater
+2022-03-22 22:40:20,924 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:40:21,512 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:40:25,213 - roots-online - ERROR - the elements is unclickable
+2022-03-22 22:40:33,255 - roots-online - ERROR - cannot find the element
+2022-03-22 22:40:33,256 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:40:34,004 - roots-online - INFO - click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-03-22 22:40:34,426 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:40:34,935 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:40:36,651 - roots-online - ERROR - cannot find the element
+2022-03-22 22:40:36,653 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:40:36,666 - roots-online - ERROR - the element is unclickable('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:47:09,705 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:47:09,909 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:47:10,191 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:47:11,388 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:47:15,549 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:47:16,013 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:47:16,158 - roots-online - INFO - input the textsweater
+2022-03-22 22:47:20,558 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:47:23,452 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:47:32,664 - roots-online - INFO - click the element:('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:47:35,263 - roots-online - INFO - click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-03-22 22:47:37,478 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:47:40,135 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:47:45,780 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:47:47,913 - roots-online - INFO - click the element:('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:47:48,137 - roots-online - INFO - click the element:('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:47:53,333 - roots-online - ERROR - misinput
+2022-03-22 22:47:58,386 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:48:05,608 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:48:07,695 - roots-online - INFO - get text: Want to Pick it up In-Store?
+2022-03-22 22:48:07,696 - roots-online - INFO - PASS
+2022-03-22 22:50:13,828 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:50:14,266 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:50:14,590 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:50:15,700 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:50:20,237 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:50:20,851 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:50:21,113 - roots-online - INFO - input the textsweater
+2022-03-22 22:50:26,470 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:50:29,006 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:50:37,041 - roots-online - INFO - click the element:('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:50:39,694 - roots-online - INFO - click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-03-22 22:50:41,981 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:50:44,674 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:50:50,874 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:50:53,022 - roots-online - INFO - click the element:('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:50:53,194 - roots-online - INFO - click the element:('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:50:58,297 - roots-online - ERROR - misinput
+2022-03-22 22:51:03,418 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:51:09,434 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:51:12,012 - roots-online - INFO - get text: Want to Pick it up In-Store?
+2022-03-22 22:51:12,013 - roots-online - INFO - PASS
+2022-03-22 22:51:20,568 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:51:21,172 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:51:21,494 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:51:22,682 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:51:26,551 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:51:31,482 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:51:35,763 - roots-online - INFO - click the element:('xpath', "//a[@id='removeGiftOptions']")
+2022-03-22 22:51:39,903 - roots-online - INFO - click the element:('xpath', "//span[@class='remove']")
+2022-03-22 22:53:46,556 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:53:46,801 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:53:47,053 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:53:48,336 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:53:52,272 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:53:52,793 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:53:52,939 - roots-online - INFO - input the textsweater
+2022-03-22 22:53:56,023 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:53:59,078 - roots-online - ERROR - the element is unclickable('xpath', "//span[text()='Personalized']")
+2022-03-22 22:54:02,156 - roots-online - ERROR - the elements is unclickable
+2022-03-22 22:54:13,741 - roots-online - ERROR - cannot find the element
+2022-03-22 22:54:13,743 - roots-online - ERROR - the element is unclickable('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:54:16,556 - roots-online - INFO - click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-03-22 22:54:18,745 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:54:21,470 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:54:27,062 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:54:29,317 - roots-online - INFO - click the element:('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:54:29,472 - roots-online - INFO - click the element:('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:54:31,679 - roots-online - INFO - input the textgood luck!
+2022-03-22 22:54:33,916 - roots-online - INFO - click the element:('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:54:40,604 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:54:42,678 - roots-online - INFO - get text: Want to Pick it up In-Store?
+2022-03-22 22:54:42,679 - roots-online - INFO - PASS
+2022-03-22 22:56:21,703 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:56:22,251 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:56:22,684 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:56:23,932 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:56:27,541 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:56:28,075 - roots-online - INFO - click the element:('id', 'searchInput')
+2022-03-22 22:56:28,228 - roots-online - INFO - input the textsweater
+2022-03-22 22:56:32,133 - roots-online - INFO - click the element:('xpath', "//div[contains(@class,'desktopRefinements')]//div[contains(@class,'categoryrefinement')]/h3/span")
+2022-03-22 22:56:34,712 - roots-online - INFO - click the element:('xpath', "//span[text()='Personalized']")
+2022-03-22 22:56:43,553 - roots-online - INFO - click the element:('xpath', "//a[contains(text(),'NOMAD MIX')]")
+2022-03-22 22:56:46,254 - roots-online - INFO - click the element:('xpath', "//a[@title='Large']/span[text()='L']")
+2022-03-22 22:56:48,474 - roots-online - INFO - click the element:('xpath', "//div[@class='qty-block-increase']/span[@class='increase-qty unselectable']")
+2022-03-22 22:56:50,869 - roots-online - INFO - click the element:('xpath', "//button[@id='add-to-cart']")
+2022-03-22 22:56:56,812 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:56:58,990 - roots-online - INFO - click the element:('xpath', "//span[@class='qty-icon minus']")
+2022-03-22 22:56:59,188 - roots-online - INFO - click the element:('xpath', "//button[@id='sendgift']//span[@class='root-plus']")
+2022-03-22 22:57:04,465 - roots-online - ERROR - misinput
+2022-03-22 22:57:09,601 - roots-online - ERROR - the element is unclickable('xpath', "//button[@id='savegiftdetails']")
+2022-03-22 22:57:16,151 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'button-text')]")
+2022-03-22 22:57:18,198 - roots-online - INFO - get text: Want to Pick it up In-Store?
+2022-03-22 22:57:18,199 - roots-online - INFO - PASS
+2022-03-22 22:57:26,924 - roots-online - INFO - open url:https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show
+2022-03-22 22:57:27,312 - roots-online - INFO - input the text1659145340@qq.com
+2022-03-22 22:57:27,542 - roots-online - INFO - input the text1204fighting
+2022-03-22 22:57:28,635 - roots-online - INFO - click the element:('id', 'lbl_dwfrm_login_rememberme')
+2022-03-22 22:57:32,546 - roots-online - INFO - click the element:('id', 'login')
+2022-03-22 22:57:37,389 - roots-online - INFO - click the element:('xpath', "//a[contains(@class,'mini-cart-link-cart')]")
+2022-03-22 22:57:41,564 - roots-online - INFO - click the element:('xpath', "//a[@id='removeGiftOptions']")
+2022-03-22 22:57:45,750 - roots-online - INFO - click the element:('xpath', "//span[@class='remove']")

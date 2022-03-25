@@ -19,7 +19,7 @@ testcase_path = project_path + "\\src\\test_cases\\"
 
 
 '''browser'''
-driver = webdriver.Chrome()
+# driver = webdriver.Chrome()
 
 '''login parameters'''
 url = "https://www.roots.com/on/demandware.store/Sites-RootsCA-Site/en_CA/Account-Show"
